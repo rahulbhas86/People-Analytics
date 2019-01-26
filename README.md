@@ -1,5 +1,5 @@
 
-People analytics project based on dataset from Kaggle.
+##People analytics project based on dataset from Kaggle.##
 
 Human resource analytics (HR analytics) is an area in the field of analytics that refers to applying analytic 
 processes to the human resource department of an organization in the hope of improving employee performance and 
